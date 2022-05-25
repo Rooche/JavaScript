@@ -27,3 +27,4 @@ for(let day = 1; day <= 31; day++){
 tableTag += '</tr></table>';
 
 document.write(tableTag);
+
